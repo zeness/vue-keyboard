@@ -22,7 +22,7 @@ Vue.use(numberKeyboard)
 | ---- | ---- | ------- | ----------- |
 | trueOrFalse | Boolean | true | show or hide |
 | @toParent | function |  | childData |
-| numBackgroundColor | String | rgb或16进制 | 白色 |
+| numberBackgroundColor | String | rgb或16进制 | 白色 |
 | borderColor | String | rgb或16进制 | 灰色 |
 | fontColor | String | rgb或16进制 | 黑色 |
 | deleteIcon | String | img | 默认 |
