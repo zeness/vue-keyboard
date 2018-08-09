@@ -14,15 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/zeness/vue-keyboard.git"
   },
- "files": [
-  "dist",
-  "src"
+  "files": [
+    "dist",
+    "src"
   ],
- "keywords": [
-  "vue",
-  "keyboard",
-  "code"
-  ],  
+  "keywords": [
+    "vue",
+    "keyboard",
+    "code"
+  ],
   "dependencies": {
     "vue": "^2.5.11"
   },
@@ -45,5 +45,9 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zeness/vue-keyboard/issues"
+  },
+  "homepage": "https://github.com/zeness/vue-keyboard#readme"
 }
