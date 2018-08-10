@@ -2,10 +2,10 @@
   "name": "vue-zhu-keyboard",
   "description": "a keyborad plugin",
   "version": "1.0.0",
-  "author": "zyp <345528907@qq.com>",
+  "author": "zeness <345528907@qq.com>",
   "license": "MIT",
   "private": false,
-  "main": "dist/numberKeyboard.js",
+  "main": "/dist/vue-keyboard.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
@@ -14,10 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/zeness/vue-keyboard.git"
   },
-  "files": [
-    "dist",
-    "src"
-  ],
   "keywords": [
     "vue",
     "keyboard",
